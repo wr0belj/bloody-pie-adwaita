@@ -1,6 +1,0 @@
-# ninja log v5
-0	42	1595168173726859829	gtk/index.theme	98516d563d1f04c4
-1	73	1595168173760193165	gnome-shell/src/gnome-shell.css	ba0b5af596a943af
-2	83	1595168173770193165	gnome-shell/src/gnome-shell-high-contrast.css	a09308daaaa9eb97
-1	166	1595168173853526501	gtk/src/gtk-3.0/gtk.css	186fdebe6ac17ba3
-167	497	0	meson-install	9bd7faa9472bf40f

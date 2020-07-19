@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Bloody Pie Adwaita
+Type=X-GNOME-Metatheme
+Comment=A high-contrast dark theme with bloody red accent, based on Adwaita
+Encoding=UTF-8
+GtkTheme=Bloody Pie Adwaita
+IconTheme=Bloody Pie Adwaita
+CursorTheme=Bloody Pie Adwaita
+CursorSize=24
